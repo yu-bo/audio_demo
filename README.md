@@ -2,3 +2,4 @@
 基于ffmpeg 采集音视频
 
 env  PyAudio PyQt5 pillow opencv-python  
+需要 安装ffmpeg
